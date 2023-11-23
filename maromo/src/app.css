@@ -1,0 +1,11 @@
+.container-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh-110px);
+    background-color: black;
+    position: absolute;
+    inset: 0;
+    gap: 50px;
+}
